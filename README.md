@@ -22,8 +22,3 @@ This repository contains the source code for a Tic-Tac-Toe web application built
 - **CSS:** For styling the game, including the gradient effects and responsive layout.
 - **JavaScript:** For handling game logic, including player interactions, AI opponent logic, and checking for winning conditions.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/tic-tac-toe-app.git
